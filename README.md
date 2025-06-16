@@ -2,7 +2,7 @@
 
 ## 📦 Contenu de la collection
 
-La collection `FINNETUDE PAPERLESS` comprend les endpoints suivants :
+La collection ` PAPERLESS` comprend les endpoints suivants :
 
 ### 📄 Documents
 
